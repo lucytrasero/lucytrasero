@@ -1,20 +1,19 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=lucytrasero&label=Profile%20views&color=0e75b6&style=flat" alt="lucytrasero" />
 </p>
-
 <h1 align="center">Hi 👋, I'm lucytrasero</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;Code.+Design.+Build.;Let%E2%80%99s+walk+and+work+together+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;Dev+of+RoboxLayer;Code.+Design.+Build.;Let%E2%80%99s+walk+and+work+together+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 👨‍💻 I’m focused on building sleek UIs with modern frontend tools  
+- 👨‍💻 I'm focused on building sleek UIs with modern frontend tools  
+- 🚀 Dev of [RoboxLayer](https://roboxlayer.xyz/) — follow us on [𝕏](https://x.com/RoboxLayer)
 - 🏃 I love walking — clears my mind and inspires my workflow  
-- 👯 I’m open to collaborating on web apps and frontend systems  
+- 👯 I'm open to collaborating on web apps and frontend systems  
 - 🎯 My goal: Build interfaces that feel like magic ✨  
 
 ---
@@ -41,14 +40,10 @@
 
 ---
 
-#### Top Repositories
+### 📌 Top Repositories
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucytrasero&repo=unlazy&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucytrasero&repo=kirbyuse&theme=buefy" />
+<a href="https://github.com/lucytrasero/ROBOX">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucytrasero&repo=ROBOX&theme=radical" />
 </a>
 
 ---
@@ -58,6 +53,12 @@
 <p align="left">
   <a href="https://github.com/lucytrasero" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://x.com/RoboxLayer" target="_blank">
+    <img alt="X (Twitter)" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://roboxlayer.xyz/" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
